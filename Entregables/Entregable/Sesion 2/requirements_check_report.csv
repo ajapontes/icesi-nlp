@@ -1,0 +1,15 @@
+package,spec,required_version,installed_before,status_before,action,install_result,installed_after,status_final
+ipykernel,ipykernel==6.31.0,6.31.0,6.31.0,instalada_ok,sin_cambios,n/a,6.31.0,ok
+jupyterlab,jupyterlab==4.0.8,4.0.8,4.0.8,instalada_ok,sin_cambios,n/a,4.0.8,ok
+lightning,lightning==2.2.0.post0,2.2.0.post0,2.2.0.post0,instalada_ok,sin_cambios,n/a,2.2.0.post0,ok
+matplotlib,matplotlib==3.8.0,3.8.0,3.8.0,instalada_ok,sin_cambios,n/a,3.8.0,ok
+numpy,numpy==1.26.4,1.26.4,1.26.4,instalada_ok,sin_cambios,n/a,1.26.4,ok
+pandas,pandas==2.1.1,2.1.1,2.1.1,instalada_ok,sin_cambios,n/a,2.1.1,ok
+plotly,plotly==6.6.0,6.6.0,6.6.0,instalada_ok,sin_cambios,n/a,6.6.0,ok
+scikit-learn,scikit-learn==1.3.0,1.3.0,1.3.0,instalada_ok,sin_cambios,n/a,1.3.0,ok
+seaborn,seaborn==0.12.2,0.12.2,0.12.2,instalada_ok,sin_cambios,n/a,0.12.2,ok
+tensorboard,tensorboard==2.16.2,2.16.2,2.16.2,instalada_ok,sin_cambios,n/a,2.16.2,ok
+torch,torch==2.5.1+cu121,2.5.1+cu121,2.5.1+cu121,instalada_ok,sin_cambios,n/a,2.5.1+cu121,ok
+torchaudio,torchaudio==2.5.1+cu121,2.5.1+cu121,2.5.1+cu121,instalada_ok,sin_cambios,n/a,2.5.1+cu121,ok
+torchmetrics,torchmetrics==1.8.2,1.8.2,1.8.2,instalada_ok,sin_cambios,n/a,1.8.2,ok
+torchvision,torchvision==0.20.1+cu121,0.20.1+cu121,0.20.1+cu121,instalada_ok,sin_cambios,n/a,0.20.1+cu121,ok
