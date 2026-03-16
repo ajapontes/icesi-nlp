@@ -1,0 +1,244 @@
+[33mcommit f46094280e00faa5b31030148b0c847997fb2a64[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alfredo Aponte <alfredo.aponte@u.icesi.edu.co>
+Date:   Mon Mar 9 00:32:11 2026 -0500
+
+    Commit con mensaje: "Actualización de archivos para el entregable de la sesión 2"
+
+[33mcommit f6454703405865d1fcf6895c466e1131cb30ace6[m
+Author: Alfredo Aponte <alfredo.aponte@u.icesi.edu.co>
+Date:   Mon Mar 9 00:20:21 2026 -0500
+
+    Commit message for changes to be committed:
+
+[33mcommit 57792a300c8880ea1bf36de59eaaf10a7da3b826[m
+Author: Alfredo Aponte <alfredo.aponte@u.icesi.edu.co>
+Date:   Mon Mar 9 00:16:31 2026 -0500
+
+    Actualizaciones para amanejo de requerimientos y reportes
+
+[33mcommit f9a5461adf5c2d103d3c5fc09d79476d73c46392[m
+Author: arlexpin <arlexpin@gmail.com>
+Date:   Wed Mar 4 21:45:24 2026 -0500
+
+    Terminación de ejercicio 2 de la sesión 2
+
+[33mcommit 27e53e7fcfdb48c5f04762fac094d077dfc1eea5[m
+Author: arlexpin <arlexpin@gmail.com>
+Date:   Tue Mar 3 23:32:41 2026 -0500
+
+    Ajuste y creación de entregable 2 predictor de sentimientos
+
+[33mcommit cd0d39a4d24b08cc1d9a8334ca847f206678249b[m
+Author: arlexpin <arlexpin@gmail.com>
+Date:   Tue Mar 3 22:30:18 2026 -0500
+
+    Actualización a manejo local y entrenamiento
+
+[33mcommit 50c77f7f36d953d0d9de2178d1074b31cb251260[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Sun Feb 22 10:10:02 2026 -0500
+
+    Creado con Colab
+
+[33mcommit 31a2ba4f8ac4d90ae2cc5c78b56d52a2ecf1371b[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Sun Feb 22 09:30:50 2026 -0500
+
+    Rename Sesion_1Work 7 sentiment-analysis_Grupo_Golf.pdf to Work 7 sentiment-analysis_Grupo_Golf.pdf
+
+[33mcommit 90e802dba08ede07853889d763ffccf47153e04a[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Sun Feb 22 09:30:23 2026 -0500
+
+    Rename Work_6_practice_Grupo_Golf.pdf to Entregables/Sesion_1/Work_6_practice_Grupo_Golf.pdf
+
+[33mcommit 85fa0b96aeec374494ddf0d8f4520b6f29f4ea7b[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Sun Feb 22 09:30:01 2026 -0500
+
+    Rename Work_6_practice_Grupo_Golf.ipynb to Entregables/Sesion_1/Work_6_practice_Grupo_Golf.ipynb
+
+[33mcommit 0e61f0e137164f3e4603e13bbc14e62115c17865[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Sun Feb 22 09:29:27 2026 -0500
+
+    Rename Work 7 sentiment-analysis_Grupo_Golf.pdf to Entregables/Sesion_1/Sesion_1Work 7 sentiment-analysis_Grupo_Golf.pdf
+
+[33mcommit acf5b003f0617eae57f29ff635506e83b1881f86[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Sun Feb 22 09:26:58 2026 -0500
+
+    Rename Work 7 sentiment-analysis_Grupo_Golf.ipynb to Entregables/Sesion_1/Work 7 sentiment-analysis_Grupo_Golf.ipynb
+
+[33mcommit 6898fafa9455336ec73dcf47883e7735506b7980[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Sun Feb 22 09:22:54 2026 -0500
+
+    Entregables consolidados
+
+[33mcommit 232527f30294086a93ae77a0fb603c702ac498c6[m
+Author: arlexpin <arlexpin@gmail.com>
+Date:   Tue Feb 17 21:17:38 2026 -0500
+
+    Revisión de los notebooks y aplicación de ejercicios prácticos 6 y 7 de la sesión 1.
+
+[33mcommit d89527f28ab319f4b128e752f20da45cfd2b189a[m
+Author: Arlex Pino Aguirre <97637557+arlexpin@users.noreply.github.com>
+Date:   Mon Feb 16 15:07:11 2026 -0500
+
+    Creado con Colab
+
+[33mcommit 35205cd0007275e6dd687757dad18d486f6b4f93[m
+Merge: 688582e b2c6832
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Thu Sep 11 10:18:01 2025 +0200
+
+    Merge pull request #2 from Ohtar10/feature/langchain-example
+    
+    Add Langchain example
+
+[33mcommit b2c68320486c6ddb55df6682eb0d2c291568d30a[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Thu Sep 11 10:09:58 2025 +0200
+
+    chore: add better documentation to langchain notebook
+
+[33mcommit 773d54eecd26d47af0177e49860766b247983db0[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Wed Sep 10 19:23:45 2025 +0200
+
+    fix: langchain notebook
+
+[33mcommit 7f7577dd8816cd71d86e4ae0e553433422291ff7[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Wed Sep 10 17:39:36 2025 +0200
+
+    fix: langchain nb
+
+[33mcommit 904e93974f444d5c1ae7345ac0a9edbf4775ff77[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Wed Sep 10 15:00:54 2025 +0200
+
+    feat: Add ollama langchain rag nb
+
+[33mcommit 688582ed61c684170c4584934c8287abd4cf292e[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Tue Sep 9 14:51:48 2025 +0200
+
+    fix: re-add image
+
+[33mcommit e689421df48a8783d738922a440a80542c66ac71[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Tue Sep 9 14:45:23 2025 +0200
+
+    fix: remove metadata.widgets key
+
+[33mcommit 54adb8d1683428c420bdab051d4f36a8278f7d37[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Tue Sep 9 14:40:03 2025 +0200
+
+    fix: notebook format
+
+[33mcommit d41241874ffb582dac1ec84fbdbfcd1cac2b2e7c[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Tue Sep 9 14:37:59 2025 +0200
+
+    fix: ollama notebook for colab run
+
+[33mcommit 105c8205d364dc4cb4441bdd8ada3f014f5cdc11[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Tue Sep 9 14:17:01 2025 +0200
+
+    fix: ollama notebook
+
+[33mcommit d2b17d6bcc1b84440a38ef940c4c1988b8432310[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Sep 6 11:37:03 2025 +0200
+
+    fix: torchinfo typo
+
+[33mcommit 96508933ef075680974969e7a4e7f07a71c21274[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Wed Aug 27 22:32:35 2025 +0200
+
+    fix: environment setup
+
+[33mcommit 52d6e2e07c0f0b4db262e866492ea9f9a81898a9[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Wed Aug 27 22:09:06 2025 +0200
+
+    fix: typo in library name
+
+[33mcommit 698a609c2b979d043e35a96489fa3f922af4d5da[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Wed Aug 27 19:59:27 2025 +0200
+
+    fix: prepare text generation notebook for colab running
+
+[33mcommit 0d5973c42101a8f3f6bcc3b6aa3c8ffacc3297ef[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 23 12:33:00 2025 +0200
+
+    fix: hf notebook
+
+[33mcommit 12859eb7f04d9e3c20ec5a4dabdcb90717748666[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 23 11:48:50 2025 +0200
+
+    fix: hf notebook
+
+[33mcommit 4993c596bec44be660dbfa7b4bdd3b34dc44356f[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 16:52:29 2025 +0200
+
+    feat: add new reference
+
+[33mcommit 9949d0f1fa535a273d3028084bb32eeb35956691[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 14:43:40 2025 +0200
+
+    fix: adapt notebook to work on colab
+
+[33mcommit f28e35ec6f97860e0de01523f855d81f31eb3f89[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 14:34:21 2025 +0200
+
+    fix: minimal install for colab
+
+[33mcommit f600935d5f8cc02a27e48f4e9c55b717578ab4b3[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 14:33:00 2025 +0200
+
+    fix: remove uneeded cell
+
+[33mcommit ce4d4249d8888110f3121c0bbe8ac764c4aef8b7[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 13:58:51 2025 +0200
+
+    fix: lstm notebook
+
+[33mcommit 46bcf7a96a37ee2f5789019c6d9d7c5e5d372702[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 13:31:34 2025 +0200
+
+    wip: fixing lstm nb issue
+
+[33mcommit 0b68cab1a82dc01ab2b750c2e09d3305566bd079[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 12:59:03 2025 +0200
+
+    wip: disable spacy + nltk
+
+[33mcommit 63c23ca423797f2ad963c5c92bf3002b38674691[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 12:20:12 2025 +0200
+
+    wip: debug lstm issue
+
+[33mcommit 404d842df31556fe84d67fcefee74ff265f70317[m
+Author: Luis Eduardo Ferro Diez <luisedof10@gmail.com>
+Date:   Sat Aug 9 11:44:48 2025 +0200
+
+    wip: fixing lstm notebook
+
+[3
